@@ -77,14 +77,14 @@ font-size: 100%;
 	
 	.top-cloud{
 	position: absolute;
-	top: 40px;
-	right:600px;
+	top: 2.5rem;
+	right:37.5rem;
 	}	
 
 	.bottom-cloud{
 	position: absolute;
-	left:550px;
-	bottom: 300px;
+	left:34.375rem;
+	bottom: 18.75rem;
 	}	
 	
 	.freelance-img{
